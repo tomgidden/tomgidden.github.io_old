@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/gid
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tom.gidden.net
+  * I am gid (https://keybase.io/gid) on keybase.
+  * I have a public key with fingerprint 92BE CA14 98F6 10FC 8B8B  631F C34A A00B 8443 35F8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01203e31936b11109a59902b19b66907cb8ac956f30481bb5ebdc9991ee4519722960a",
+            "fingerprint": "92beca1498f610fc8b8b631fc34aa00b844335f8",
+            "host": "keybase.io",
+            "key_id": "c34aa00b844335f8",
+            "kid": "0101c607102d5031ebf7e888ae149e5e74f3a27c513be6e97e7499f623b090302ee40a",
+            "uid": "308e61cdbcfcd7cf0b4fcec43574e119",
+            "username": "gid"
+        },
+        "service": {
+            "hostname": "tom.gidden.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1487258381,
+    "expire_in": 157680000,
+    "prev": "2a1720ae3818eaec841f85f2b12c1777d0b78080523a14660f39464f4bfb380d",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.62
+Comment: https://keybase.io/crypto
+
+yMNpAnicbVJrTFRHFAYsBthskUeElPe11oJAZu77bmpLLQLapJQm3aKpbu5j7u4V
+2N3uLq/iNlAQiGmDSxCwhLhiTW1TkRZaSxSbBcQWIrabWl8UY4wV4qNow6MmlM4S
+/df5M5lzvu873zlnRvVrgiKCR3Z4dQ1vMEvBE7628qDi4yP6GkKyKdWEoYYoQasX
+KlWQ02Uq0RTCQABIAgpRUKBYCUIIBJERBEBKUJBYVgCcLPGiLDCsSgGah5LEIEmR
+BUGACNEMFDiSFFggEpmEqlnNyGF3aFYXlhVICckipAVeZSFQZV7iJZaCqkzRogiA
+xNM0RTEqj4kWmzPAwOYk0YmyNRuO4Ydp1d7/4J/5BlBmAQcBqTCAgkhSOcTzvIhw
+UcQgjlYpkeRkBlISYpHA4YggqCxJSUAAFCCx/1Xf5atyFOARC2VFklVZ4WQVSLQq
+I5mmGI5GEAoBoBM5rGIZwmgz5rgzCRyo0GQUmGmgiadJl60sGwMUZM22Ihcm2h02
+l022leKcxeWyGwJUV7U9gK1EkumpiknSrAqeISZUIIdTs1kJA8RI2aUFZCHNcyTD
+UzzMJFCVXXMgkxZAMBzLA3wCZVAFliRFyJFARBjJIxHJPA1VnlHxRkkZchynAInj
+AQ8YksL7YVmgUgLN0iotqRLFA4UI9PWB1Ya1KexTNGNNp2a2iq5yByLcw773nwsK
+jghaGxoS+FxBEeHrnn25r72RywnKgYTYsX+v9MoF+rNFt5XOROPw9p7+vuiFmLxs
++0BWvNPETT26Erk7/JFOUY1fzYXc3Rkc4/7r5Bp37B6if6m/oy2sKHmqedbhTnH9
+WpmyksIe3tzp096Lbz6VluoNYw91vVNcENa7mJwzUHbNvzc3KzX02ko58By2Rbde
+WNtTHnGnq/HmYm7GgRv57UNpqaxh5N64T7/j+c0PJsPSEm8+HmvoENcvkx/OXHip
+7stN4em61ybMds9kxA/ht8YtbwctjR60tJ3aUtzQEHvn0qDj05mflj/aTYvb4kKm
+84eKfNzsx+6Z5u16d8uJz/UeoW7fns/erY8dOOc/6jVe33TkNzPzR6r/56TrzWc8
+eRnDfaV9tYXfcaWLUeJG96Gt6Z9cnmq5uLek5tbv43fjXjY3bfz2dOT+7wteb0Pe
+fdHpeYlDL7R+M4CnMXcutGqRnL3qPf/mfHqubm6luFBpirzhdtCq2D4Zj0aPuWju
+RWNZTI+lS1fAji5dnq+3h8uzW6NSWq0FqP6VfvXI7Q1s3Kvr/U/+9vq7jVxGxp9Z
+g4QvueMh8ws/eKa2s/kLy8Xz/Z6FnOldLY3dUQ8unQ5OeuvHJ9M91dxYTUL3wbre
++Z1bPEZDS85jf/qxs5VXo3IrCpNOSv5dC0eTJqru1d7f0D78D9u0TtfLZee33T+R
+0bj/4XF92H+UQrUY
+=fJrN
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gid
+
+==================================================================
